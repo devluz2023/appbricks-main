@@ -1,0 +1,11 @@
+services:
+  
+  appbricks:
+    build: .
+    container_name: appbricks
+    ports:
+      - 82:83
+      - 5678:5678
+
+
+

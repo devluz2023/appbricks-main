@@ -1,0 +1,2 @@
+2023-04-16 03:22:04,438 Starting new HTTPS connection (1): adb-2915177439089111.11.azuredatabricks.net:443
+2023-04-16 03:22:05,368 https://adb-2915177439089111.11.azuredatabricks.net:443 "GET /api/2.0/clusters/list HTTP/1.1" 200 None
